@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/POCdnyandeepProject/static/css/main.5e7c4817.css",
+    "main.js": "/POCdnyandeepProject/static/js/main.40ebc833.js",
+    "static/js/787.e96d62aa.chunk.js": "/POCdnyandeepProject/static/js/787.e96d62aa.chunk.js",
+    "static/media/admission.jpg": "/POCdnyandeepProject/static/media/admission.e5ba30d4cdedbd60ce81.jpg",
+    "static/media/contact.png": "/POCdnyandeepProject/static/media/contact.50f418fc315d91e82171.png",
+    "static/media/children.png": "/POCdnyandeepProject/static/media/children.a0cd64fff8abdd6ce9c3.png",
+    "static/media/soham final.jpg": "/POCdnyandeepProject/static/media/soham final.3103ae07ccd550a09d44.jpg",
+    "static/media/Firstday.jpg": "/POCdnyandeepProject/static/media/Firstday.ccf17c0d0a344afbd046.jpg",
+    "static/media/school_logo.png": "/POCdnyandeepProject/static/media/school_logo.5d14f0bcb46c932df711.png",
+    "static/media/Mission-Vision-.png": "/POCdnyandeepProject/static/media/Mission-Vision-.5c9f55c0a1bd8c0939e8.png",
+    "static/media/board_logo.png": "/POCdnyandeepProject/static/media/board_logo.3877d64dd25e17906a73.png",
+    "static/media/fee_structure.jpg": "/POCdnyandeepProject/static/media/fee_structure.eb70bfa2803d018ca473.jpg",
+    "static/media/about_school.jpg": "/POCdnyandeepProject/static/media/about_school.2bb794868892ad600e24.jpg",
+    "static/media/uniform1.jpg": "/POCdnyandeepProject/static/media/uniform1.3c99c8803419cda92c7f.jpg",
+    "static/media/school.png": "/POCdnyandeepProject/static/media/school.94442213a370bb72b116.png",
+    "static/media/career_img.jpg": "/POCdnyandeepProject/static/media/career_img.f86daf3c5846c0540af6.jpg",
+    "static/media/events.jpg": "/POCdnyandeepProject/static/media/events.2352e0f4ed8e575e24c4.jpg",
+    "static/media/curriculum.jpg": "/POCdnyandeepProject/static/media/curriculum.739b94e98eb410c37f51.jpg",
+    "index.html": "/POCdnyandeepProject/index.html",
+    "main.5e7c4817.css.map": "/POCdnyandeepProject/static/css/main.5e7c4817.css.map",
+    "main.40ebc833.js.map": "/POCdnyandeepProject/static/js/main.40ebc833.js.map",
+    "787.e96d62aa.chunk.js.map": "/POCdnyandeepProject/static/js/787.e96d62aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e7c4817.css",
+    "static/js/main.40ebc833.js"
+  ]
+}
