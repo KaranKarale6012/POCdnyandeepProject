@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/POCdnyandeepProject/static/css/main.5e7c4817.css",
-    "main.js": "/POCdnyandeepProject/static/js/main.40ebc833.js",
+    "main.css": "/POCdnyandeepProject/static/css/main.7abce36a.css",
+    "main.js": "/POCdnyandeepProject/static/js/main.c1406593.js",
     "static/js/787.e96d62aa.chunk.js": "/POCdnyandeepProject/static/js/787.e96d62aa.chunk.js",
     "static/media/admission.jpg": "/POCdnyandeepProject/static/media/admission.e5ba30d4cdedbd60ce81.jpg",
     "static/media/contact.png": "/POCdnyandeepProject/static/media/contact.50f418fc315d91e82171.png",
@@ -19,12 +19,12 @@
     "static/media/events.jpg": "/POCdnyandeepProject/static/media/events.2352e0f4ed8e575e24c4.jpg",
     "static/media/curriculum.jpg": "/POCdnyandeepProject/static/media/curriculum.739b94e98eb410c37f51.jpg",
     "index.html": "/POCdnyandeepProject/index.html",
-    "main.5e7c4817.css.map": "/POCdnyandeepProject/static/css/main.5e7c4817.css.map",
-    "main.40ebc833.js.map": "/POCdnyandeepProject/static/js/main.40ebc833.js.map",
+    "main.7abce36a.css.map": "/POCdnyandeepProject/static/css/main.7abce36a.css.map",
+    "main.c1406593.js.map": "/POCdnyandeepProject/static/js/main.c1406593.js.map",
     "787.e96d62aa.chunk.js.map": "/POCdnyandeepProject/static/js/787.e96d62aa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5e7c4817.css",
-    "static/js/main.40ebc833.js"
+    "static/css/main.7abce36a.css",
+    "static/js/main.c1406593.js"
   ]
 }
